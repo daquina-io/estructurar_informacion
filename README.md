@@ -1,29 +1,33 @@
 # Estructurar Información
 ## Temas:
 
-### Problema 0: Extraer/Recolectar información
+### Problema: Acceder/Extraer/Recolectar información
 
-### Problema 1: Clasificar Información
+### Problema: Clasificar Información
 
-### Problema 2: Relacionar información
+### Problema: Relacionar información
   - Con el mismo documento
   - Con otros documentos
   - Con el contexto
   - Con entes específicos
 
-### Problema 3: Escalar el sistema de información
-	Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.
+### Problema: Escalar el sistema de información
+    
+   Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.
 
-### Problema 4: Compartir y colaborar con la información
-     Versiones, Autores, Conflictos
+### Problema: Compartir y colaborar con la información
+     
+ Versiones, Autores, Conflictos
 
-### Problema 5: Presentar la información
-     Visualización, indicadores, fenómenos
+### Problema: Presentar la información
+     
+   Visualización, indicadores, fenómenos
 
-### Problema 6: Información reproducible y copias de respaldo
+### Problema: Información reproducible y copias de respaldo
 
-### Problema 7: Organizar los datos en formas que faciliten la manipulación, el análisis y la sintetización
-     Data-wrangling, Tidy data -> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf http://openrefine.org http://vita.had.co.nz/papers/tidy-data.pdf https://ramnathv.github.io/pycon2014-r/explore/tidy.html
+### Problema: Organizar los datos en formas que faciliten la manipulación, el análisis y la sintetización
+     
+   Data-wrangling, Tidy data -> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf http://openrefine.org http://vita.had.co.nz/papers/tidy-data.pdf https://ramnathv.github.io/pycon2014-r/explore/tidy.html
 
 Todos estos problemas son comunes en un proceso que maneje información para un objetivo específico. Si no existe un objetivo definido para el cual usted está recolectando, almacenando, analizando, sintetizando la información empiece por ahí. **¿Para qué?, ¿Qué espero producir con esta información?** plantee un proceso a la inversa, desde el **¿para qué?** y devuélvase advirtiendo cada una de las situaciones que exponemos antes hasta llegar al momento de la **recolección** de los datos.
 
