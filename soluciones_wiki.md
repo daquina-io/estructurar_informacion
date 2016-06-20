@@ -3,6 +3,7 @@
 ![http://wiki.bibliolabs.cc/_media/tdcayc:produccion-grafica:instructivowiki-01.png][http://wiki.bibliolabs.cc/_media/tdcayc:produccion-grafica:instructivowiki-01.png]
 
 Tomada de la definición hecha para el proceso bibliolabs.cc del Sistema de Bibliotecas Públicas de Medellín
+
 ### Problema 0: Extraer/Recolectar información
 
 Un wiki puede ser visto como un artefacto para almacenar información con una lógica particular dictada por las características de la herramienta. La información dispuesta allí se puede extraer de una menera consistente para muchos casos si se sigue la lógica jerárquica que propone en el momento de crear la información. Por ejemplo
@@ -14,6 +15,8 @@ Un wiki puede ser visto como un artefacto para almacenar información con una l�
 También es posible construir formularios para recolectar información cuyo resultado será almacenado en el mismo wiki en formatos como tablas o artículos en texto.
 
 Bureaucracy - https://www.dokuwiki.org/plugin:bureaucracy
+
+Solución en el wiki -> http://wiki.unloquer.org/personas/brolin/estructurar_informacion/problema0
 
 ### Problema 1: Clasificar Información
 
